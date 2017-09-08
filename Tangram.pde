@@ -177,11 +177,10 @@ void Figuras()
 {
   if (level == 1)
     {
-     
-      //fill(0);
-      //textSize(50);
-      //textAlign(CENTER,TOP);
-      //text("  .Cuadrado", (width/2+175), 10);
+     fill(0);
+      textSize(50);
+      textAlign(CENTER,TOP);
+      text("  .Cuadrado", (width/2+175), 10);
     }
     else if (level == 2)
     {
